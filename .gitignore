@@ -2,3 +2,4 @@ src/data/*/*/*nc
 src/data/*/*tiff
 src/data/*/*/*tiff
 src/data/*/*hdf
+src/data/*/*h5
